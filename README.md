@@ -1,2 +1,2 @@
 # libcathy
-Code segments that I frequenly reuse. 
+Code segments that I frequently reuse. 
