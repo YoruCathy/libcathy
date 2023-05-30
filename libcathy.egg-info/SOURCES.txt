@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+libcathy.egg-info/PKG-INFO
+libcathy.egg-info/SOURCES.txt
+libcathy.egg-info/dependency_links.txt
+libcathy.egg-info/top_level.txt

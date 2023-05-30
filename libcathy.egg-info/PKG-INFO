@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: libcathy
+Version: 0.0.1
+Author: Cathy Ye
+Author-email: cathyye0809@gmail.com
+Requires-Python: >=3.8.0
+License-File: LICENSE
